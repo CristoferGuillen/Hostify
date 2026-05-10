@@ -1,6 +1,16 @@
 # Hostify
 
-&#x20;  &#x20;
+![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-4-FFAA00?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,tailwind,vite,git&theme=light" alt="Technologies used in Hostify" />
+  </a>
+</p>
 
 **Hostify** is a web application for hotel operations management. The system centralizes key processes such as room management, reservations, guests, check-in, check-out, invoicing, payments, shift closing, and housekeeping from an administrative panel built with **Laravel** and **Filament**.
 
